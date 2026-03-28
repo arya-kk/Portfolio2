@@ -201,7 +201,7 @@
     </nav>
 
     <header id="about" class="hero">
-        <img src="https://github.com/arya-kk/Portfolio2/blob/b43be3d05abdcb90440c8e57168eb969e3689cb9/IMG_0953.JPG.jpeg" alt="Aryananda K" class="profile-img">
+        <img src="IMG_0953.JPG.jpeg" alt="Aryananda K" class="profile-img">
         
         <h1>Aryananda K</h1>
         <h2>Computer Science Student</h2>
